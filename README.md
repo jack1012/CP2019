@@ -1,4 +1,4 @@
-# CP2018
+#  Computer Programming Spirng 2018
 http://math.ntnu.edu.tw/~hyfan/linked_files/courses/CompProg/106_2_CompProg.htm
 
 ## Course Information
