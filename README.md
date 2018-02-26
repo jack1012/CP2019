@@ -23,10 +23,10 @@ http://math.ntnu.edu.tw/~hyfan/linked_files/courses/CompProg/106_2_CompProg.htm
 + Chap. 8  複數與三維繪圖
 
 ## TA: 課程助教為胡政德先生(數學系專責導師)
-- 數學系博士班研究生
-- 研究室: M108
-- TEL: 02-77346536
-- Email: jackhu@ntnu.edu.tw
++ 數學系博士班研究生
++ 研究室: M108
++ TEL: 02-77346536
++ Email: jackhu@ntnu.edu.tw
 
 ## Evaluation:
 ### 期中考佔40%
