@@ -5,7 +5,7 @@
 3. You can choose MATLAB R2012a, R2015a, or MATLAB R2017b to download 
 4. Must download 	"序號檔及安裝文件"
 
-# MATLAB Install (You can see to the install doucument)
+# MATLAB Install (See to the installation doucument)
 1. Open the MATLAB.iso file
 2. Run "Setup.exe"
 3. Select installation methed : Use a File Installation Key --> Next
