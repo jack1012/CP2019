@@ -39,3 +39,9 @@ Note: Some commands
 +1/21+1/22+1/23+1/24+1/25+1/26+1/27+1/28+1/29+1/30 ...
 +1/31+1/32+1/33+1/34+1/35+1/36+1/37+1/38+1/39+1/40 
 ```
+### 2. Creating and Running Script m-File
+
+1. Click the New Script button on the Home tab.
+2. After you create a script, you can add code to the script and save it. See to [test1.m](https://github.com/jack1012/CP2018/blob/master/week02_0305/test1.m)
+
+
