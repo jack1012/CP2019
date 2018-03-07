@@ -42,6 +42,11 @@ Note: Some commands
 ### 2. Creating and Running Script m-File
 
 1. Click the New Script button on the Home tab.
-2. After you create a script, you can add code to the script and save it. See to [test1.m](https://github.com/jack1012/CP2018/blob/master/week02_0305/test1.m)
+2. After you create a script, you can add code to the script and save it. 
+
+### Example 1
+> Compute 1+1/2+1/3 ... 1/40
+
+See to [test1.m](https://github.com/jack1012/CP2018/blob/master/week02_0305/test1.m)
 
 
