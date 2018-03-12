@@ -6,10 +6,7 @@ x = [3.4]
 
 x = [3 , 4]  
 
-$$$
-A_{2,1} = \begin{pmatrix}
-  ...
-\end{pmatrix}
+$$$ M = \begin{bmatrix} \frac{5}{6} & \frac{1}{6} & 0 \[0.3em] \frac{5}{6} & 0 & \frac{1}{6} \[0.3em] 0 & \frac{5}{6} & \frac{1}{6} \end{bmatrix}
 
 x = [3 ; 4]
 
