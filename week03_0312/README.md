@@ -6,7 +6,7 @@ x = [3.4]
 
 x = [3 , 4]  
 
-$$$ M = \begin{bmatrix} \frac{5}{6} & \frac{1}{6} & 0 \[0.3em] \frac{5}{6} & 0 & \frac{1}{6} \[0.3em] 0 & \frac{5}{6} & \frac{1}{6} \end{bmatrix}
+$$$ \begin{matrix} -1 & 3 \ 2 & -4 \end{matrix}
 
 x = [3 ; 4]
 
