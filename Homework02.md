@@ -4,7 +4,7 @@
 
 $ \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ \end{bmatrix} $
 
-(1) 建立A矩陣 
+(1) 建立A矩陣 <br/>
 (2) 取出第1個row向量，令為r1
 (3) 取出第1個colum向量，令為c1
 (4) 計算r1*c1 
