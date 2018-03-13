@@ -2,7 +2,13 @@
 
 ## 作業1：建立5x5的帶狀矩陣A=tri(1,2,3)，計算A^2 
 
--$$ \begin{bmatrix} 2 & 3 & 0 \ 1 & y & y^2 \ 1 & z & z^2 \ \end{bmatrix}$$
+$$
+        \begin{matrix}
+        1 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{matrix}
+$$
 
 (1) 建立A矩陣 
 (2) 取出第1個row向量，令為r1
