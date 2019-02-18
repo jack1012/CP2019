@@ -1,10 +1,13 @@
 http://math.ntnu.edu.tw/~hyfan/linked_files/courses/CompProg/107_2_CompProg.htm
 
-## Course: Computer Programming (程式設計)
-## Course number: MAU0032，數一A，選修3學分
-## Time: Monday, 3:30--6:20 PM (每星期一第8--10節)
-## Place: 理圖807，台師大公館校區
-## Textbook: Stephen J. Chapman著，沈志忠譯，「MATLAB程式設計與應用」，第五版，全華科技圖書股份有限公司，2016年4月
+##
+Course: Computer Programming (程式設計)
+Course number: MAU0032，數一A，選修3學分
+Time: Monday, 3:30--6:20 PM (每星期一第8--10節)
+Place: 理圖807，台師大公館校區
+Textbook: Stephen J. Chapman著，沈志忠譯，「MATLAB程式設計與應用」，第五版，全華科技圖書股份有限公司，2016年4月
+##
+
 References:
 洪維恩著，「Matlab 程式設計」，旗標出版股份有限公司，2013年8月
 張智星著，「MATLAB程式設計入門篇」(修訂第三版)，碁峰資訊股份有限公司，2015年3月6日
