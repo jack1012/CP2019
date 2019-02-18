@@ -20,8 +20,9 @@ http://math.ntnu.edu.tw/~hyfan/linked_files/courses/CompProg/107_2_CompProg.htm
 + Chap. 6  基本的使用者定義函式
 + Chap. 7  使用者定義函式的進階功能
 + Chap. 8  複數與三維繪圖
-## TA: 課程助教為林詠倫同學
-目前就讀本系碩士班一年級
+## TA: 課程助教
++ 林詠倫同學
++ 胡政德老師
 
 ## Evaluation:
 ### 期中考佔40%
